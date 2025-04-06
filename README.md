@@ -1,6 +1,5 @@
 👋 Hi, I’m Trisha Gupta!  
 🚀 Data Science | AI | Computer Science | Software Development  
-
 👀 I’m interested in AI, Data Science, and Software Engineering.  
 🌱 I’m currently pursuing an MS in Computer Science at DePaul University, majoring in Data Science.  
 💼 Former SAP Data Analyst at Capgemini | Python Developer | Web Developer  
